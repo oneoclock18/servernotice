@@ -1,4 +1,5 @@
 # html-template-servernotice
+## ⚠️ 이 프로젝트는 아카이브 되어 더이상 업데이트 되지 않습니다.
 HTML 및 CSS를 사용한 서버 점검 안내문 템플릿입니다.
 
 ## 사용하기
